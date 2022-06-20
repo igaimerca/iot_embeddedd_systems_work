@@ -12,3 +12,5 @@ Here are the steps to follow <br/>
 2. run `python upload.py` while in root folder
 3. Then the transaction data will be uploaded to the server.
 4. You can find the data in `uploaded_transaction.txt` file in the server directory
+
+Thanks!
